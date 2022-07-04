@@ -52,10 +52,10 @@ margin-top: 15px;
 }
 
 .playerImage {
-width: 40%;
-margin-bottom: -5px;
-
+  width: 40%;
+  margin: 20px 0;
 }
+
 .player,
 .playerComputer {
 height: 80%;

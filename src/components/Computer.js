@@ -12,7 +12,7 @@ export default function Computer() {
       <div className="speech-bubble"></div>
       <img
         className="playerImage"
-        src="./assets/img/playerComputer.png"
+        src="./assets/img/computer.png"
         alt="computer"
       ></img>
     </div>
